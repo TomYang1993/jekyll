@@ -402,7 +402,7 @@ such as using variables.
 
 ### Code snippet highlighting
 
-Jekyll has built in support for syntax highlighting of over 60 languages
+Jekyll has built in support for syntax highlighting of over 90 languages
 thanks to [Rouge](http://rouge.jneen.net). Rouge is the default highlighter
 in Jekyll 3 and above. To use it in Jekyll 2, set `highlighter` to `rouge`
 and ensure the `rouge` gem is installed properly.
